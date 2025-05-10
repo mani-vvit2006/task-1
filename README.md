@@ -14,4 +14,4 @@ Create a program that converts temperatures between Celsius, Fahrenheit, and Kel
 1. Ensure Python 3.x is installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/mani-vvit2006/task-1/blob/main/temperature_converter.py
+   git clone https://github.com/mani-vvit2006/task-1/blob/0d4c3f1e0c297c9bf7d1b8c7a4163bfbc75f3e29/temperature_converter.py
